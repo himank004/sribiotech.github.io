@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.head {
+    font-family: "monoton";
+    text-align: center;
+    color: red;
+    font-size: 80px;
+}
+
+.p {
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+    font-size: 50px;
+    font-family: "lobster";
+}
+
+.b {
+    background-color: orchid;
+    border-radius: 25px;
+    color: white;
+    height: 56px;
+    width: 178px;
+    font-size: 25px;
+}
+
+.div {
+    background-image: url("https://cdn.sanity.io/images/0vv8moc6/pharmtech/64e01bf1f7dbd9099e249e9c3247fdbb9a46b4b1-1280x720.jpg");
+    height: 700px;
+    text-align: center;
+    background-size: cover;
+    padding: 30px;
+}
+
+.head1 {
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 90px;
+    text-align: center;
+    text-decoration:underline;
+}
+
+.bg {
+    background-image: url("file:///C:/Users/phima/Downloads/0001.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.p1 {
+    color: white;
+    font-size: 30px;
+}
+
+.bgc {
+    background-color: pink;
+}
+
+.img {
+    background-color: aquamarine;
+
+}
